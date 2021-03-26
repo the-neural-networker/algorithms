@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-This repository contains implementations of popular data structures and algorithms. Still a work in progress.
+This repository contains implementations of popular data structures and algorithms. A work in progress.
 
 Currently implemented data structures:
 
