@@ -10,3 +10,4 @@ Currently implemented algorithms:
 
  1. [Binary Search](algorithms/binary_search.py)
  2. [Selection Sort](algorithms/selection_sort.py)
+ 3. [Recursion](algorithms/recursion.py)
