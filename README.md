@@ -15,3 +15,4 @@ Currently implemented algorithms:
  4. [Divide and Conquer](algorithms/divide_and_conquer.py)
  5. [Quick Sort](algorithms/quick_sort.py)
  6. [Breadth First Search](algorithms/breadth_first_search.py)
+ 7. [Dijkstra's Algorithm](algorithms/dijkstra.py)
