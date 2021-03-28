@@ -16,6 +16,7 @@ Currently implemented algorithms:
  5. [Quick Sort](algorithms/quick_sort.py)
  6. [Breadth First Search](algorithms/breadth_first_search.py)
  7. [Dijkstra's Algorithm](algorithms/dijkstra.py)
+ 8. [Greedy Algorithms](algorithms/greedy_algorithms.py)
 
 ## References
 
