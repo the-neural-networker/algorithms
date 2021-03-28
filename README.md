@@ -5,6 +5,7 @@ This repository contains implementations of popular data structures and algorith
 Currently implemented data structures:
 
  1. [Linked List](data_structures/linked_list.py)
+ 2. [Graphs](data_structures/graphs.py)
 
 Currently implemented algorithms:
 
