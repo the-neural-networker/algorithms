@@ -16,3 +16,7 @@ Currently implemented algorithms:
  5. [Quick Sort](algorithms/quick_sort.py)
  6. [Breadth First Search](algorithms/breadth_first_search.py)
  7. [Dijkstra's Algorithm](algorithms/dijkstra.py)
+
+## References
+
+ 1. Bhargava, A. (2016). _Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People_. Manning Publications.
