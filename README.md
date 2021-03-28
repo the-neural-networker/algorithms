@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-This repository contains implementations of popular data structures and algorithms. A work in progress.
+This repository contains implementations of popular data structures and algorithms with simple examples. A work in progress.
 
 Currently implemented data structures:
 
@@ -13,3 +13,4 @@ Currently implemented algorithms:
  3. [Recursion](algorithms/recursion.py)
  4. [Divide and Conquer](algorithms/divide_and_conquer.py)
  5. [Quick Sort](algorithms/quick_sort.py)
+ 6. [Breadth First Search](algorithms/breadth_first_search.py)
